@@ -1,0 +1,14 @@
+﻿  LabExam.c
+C:\Users\G00406694\OneDrive - Atlantic TU\PP\ShaneWalshExam1\ShaneWalshExam1\LabExam.c(32,25): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\G00406694\OneDrive - Atlantic TU\PP\ShaneWalshExam1\ShaneWalshExam1\LabExam.c(33,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\G00406694\OneDrive - Atlantic TU\PP\ShaneWalshExam1\ShaneWalshExam1\LabExam.c(38,25): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\G00406694\OneDrive - Atlantic TU\PP\ShaneWalshExam1\ShaneWalshExam1\LabExam.c(39,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\G00406694\OneDrive - Atlantic TU\PP\ShaneWalshExam1\ShaneWalshExam1\LabExam.c(43,23): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\G00406694\OneDrive - Atlantic TU\PP\ShaneWalshExam1\ShaneWalshExam1\LabExam.c(44,25): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\G00406694\OneDrive - Atlantic TU\PP\ShaneWalshExam1\ShaneWalshExam1\LabExam.c(45,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\G00406694\OneDrive - Atlantic TU\PP\ShaneWalshExam1\ShaneWalshExam1\LabExam.c(13,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\G00406694\OneDrive - Atlantic TU\PP\ShaneWalshExam1\ShaneWalshExam1\LabExam.c(18,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\G00406694\OneDrive - Atlantic TU\PP\ShaneWalshExam1\ShaneWalshExam1\LabExam.c(25,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\G00406694\OneDrive - Atlantic TU\PP\ShaneWalshExam1\ShaneWalshExam1\LabExam.c(70,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\G00406694\OneDrive - Atlantic TU\PP\ShaneWalshExam1\ShaneWalshExam1\LabExam.c(75,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ShaneWalshExam1.vcxproj -> C:\Users\G00406694\OneDrive - Atlantic TU\PP\ShaneWalshExam1\Debug\ShaneWalshExam1.exe
