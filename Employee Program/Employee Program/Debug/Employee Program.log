@@ -1,0 +1,7 @@
+﻿  Employees.c
+C:\Users\G00406694\OneDrive - Atlantic TU\PP\Employee Program\Employee Program\Employees.c(29,94): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\G00406694\OneDrive - Atlantic TU\PP\Employee Program\Employee Program\Employees.c(11,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\G00406694\OneDrive - Atlantic TU\PP\Employee Program\Employee Program\Employees.c(16,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\G00406694\OneDrive - Atlantic TU\PP\Employee Program\Employee Program\Employees.c(44,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  LINK : C:\Users\G00406694\OneDrive - Atlantic TU\PP\Employee Program\Debug\Employee Program.exe not found or not built by the last incremental link; performing full link
+  Employee Program.vcxproj -> C:\Users\G00406694\OneDrive - Atlantic TU\PP\Employee Program\Debug\Employee Program.exe
