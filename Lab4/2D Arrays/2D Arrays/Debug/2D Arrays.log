@@ -1,0 +1,4 @@
+﻿  ArrayAverage.c
+C:\Users\G00406694\OneDrive - Atlantic TU\PP\Lab4\2D Arrays\2D Arrays\ArrayAverage.c(17,21): warning C4087: 'rand': declared with 'void' parameter list
+C:\Users\G00406694\OneDrive - Atlantic TU\PP\Lab4\2D Arrays\2D Arrays\ArrayAverage.c(22,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  2D Arrays.vcxproj -> C:\Users\G00406694\OneDrive - Atlantic TU\PP\Lab4\2D Arrays\Debug\2D Arrays.exe
