@@ -1,0 +1,11 @@
+﻿  Source.c
+C:\Users\G00406694\OneDrive - Atlantic TU\APP\Sem2lab3\MayorVote2\MayorVote2\Source.c(9,12): warning C4013: 'enterVotes' undefined; assuming extern returning int
+C:\Users\G00406694\OneDrive - Atlantic TU\APP\Sem2lab3\MayorVote2\MayorVote2\Source.c(10,14): warning C4013: 'displayVotes' undefined; assuming extern returning int
+C:\Users\G00406694\OneDrive - Atlantic TU\APP\Sem2lab3\MayorVote2\MayorVote2\Source.c(11,25): warning C4013: 'stateWinners' undefined; assuming extern returning int
+C:\Users\G00406694\OneDrive - Atlantic TU\APP\Sem2lab3\MayorVote2\MayorVote2\Source.c(12,14): warning C4013: 'displayMayor' undefined; assuming extern returning int
+C:\Users\G00406694\OneDrive - Atlantic TU\APP\Sem2lab3\MayorVote2\MayorVote2\Source.c(14,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\G00406694\OneDrive - Atlantic TU\APP\Sem2lab3\MayorVote2\MayorVote2\Source.c(40,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\G00406694\OneDrive - Atlantic TU\APP\Sem2lab3\MayorVote2\MayorVote2\Source.c(57): warning C4716: 'displayVotes': must return a value
+C:\Users\G00406694\OneDrive - Atlantic TU\APP\Sem2lab3\MayorVote2\MayorVote2\Source.c(44): warning C4716: 'enterVotes': must return a value
+C:\Users\G00406694\OneDrive - Atlantic TU\APP\Sem2lab3\MayorVote2\MayorVote2\Source.c(115): warning C4716: 'displayMayor': must return a value
+  MayorVote2.vcxproj -> C:\Users\G00406694\OneDrive - Atlantic TU\APP\Sem2lab3\MayorVote2\Debug\MayorVote2.exe
