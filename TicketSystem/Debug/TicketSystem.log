@@ -1,0 +1,7 @@
+﻿  TicketPurchase.c
+C:\Users\G00406694\OneDrive - Atlantic TU\PP\TicketSystem\TicketPurchase.c(14,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\G00406694\OneDrive - Atlantic TU\PP\TicketSystem\TicketPurchase.c(17,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\G00406694\OneDrive - Atlantic TU\PP\TicketSystem\TicketPurchase.c(20,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\G00406694\OneDrive - Atlantic TU\PP\TicketSystem\TicketPurchase.c(23,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\G00406694\OneDrive - Atlantic TU\PP\TicketSystem\TicketPurchase.c(24,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  TicketSystem.vcxproj -> C:\Users\G00406694\OneDrive - Atlantic TU\PP\TicketSystem\Debug\TicketSystem.exe
